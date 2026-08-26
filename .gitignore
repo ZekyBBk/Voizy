@@ -1,0 +1,25 @@
+# Entorno virtual y dependencias
+env/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Compilaciones y artefactos
+build/
+dist/
+Instalador Final/
+*.spec.bak
+payload.zip
+
+# Modelos pesados y binarios temporales
+models/
+logs/
+tools/ffmpeg.exe
+ffmpeg.exe
+*.log
+*.tmp
+
+# IDEs
+.vscode/
+.idea/
